@@ -1,7 +1,7 @@
 python-signal
 =============
 
-python捕捉系统信号(sigint/sigterm/sigkill)，控制程序优雅退出。详细参考源代码。
+python捕捉系统信号(sigint/sigterm/sigkill)，控制程序优雅退出并改变系统默认的退出操作。详细参考源代码。
 
 ### 几个常用信号:    
 * SIGINT    : 终止进程  中断进程  (control+c)    
